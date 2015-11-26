@@ -1,0 +1,15 @@
+Using diff -u showed all the changes between the two files.
+I then just needed to look for a typo on the lines that changed.
+This was easier than scanning the whole file.
+
+How could having easy access to the entire history of a file make you a more efficient 
+programmer in the long term?
+1. If bugs are introduced you revert back to the previous version.
+2. You can find introduced bugs easier by showing changes.
+
+
+How can you use the commands git log and git diff to view the history of files?
+1. git log shows you a sequential log of changes with author and date/time stamps.
+2. git diff shows you the differences between two commits.
+
+
